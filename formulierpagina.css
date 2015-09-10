@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+    transition: 2s;
+    font-family: Arial;
+    background-repeat: repeat-y;
+    background-position: right top;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+label {
+    float: left;
+    widht: 50%;
+}
+
+input {
+    float: left;
+    widht: 50%;
+}
